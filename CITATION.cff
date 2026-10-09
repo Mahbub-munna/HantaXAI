@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this research, please cite the associated paper."
+title: "HantaXAI: Multi-Source Explainable Spatiotemporal XGBoost for Early Forecasting of Hantavirus Outbreaks"
+type: article
+authors:
+  - family-names: "Rydi"
+    given-names: "Reduana Afrin"
+  - family-names: "Risha"
+    given-names: "Rafia Tasnim"
+  - family-names: "Munna"
+    given-names: "Mahbub Alahi"
+  - family-names: "Arman"
+    given-names: "Md Shohel"
+  - family-names: "Ahmed"
+    given-names: "Ferdous"
+  - family-names: "Ahmed"
+    given-names: "Faruk"
+year: 2026

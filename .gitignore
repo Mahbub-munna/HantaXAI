@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment secrets
+.env
+.env.*
+!.env.example
+*token*
+*secret*
+
+# Local datasets and large files
+data/raw/
+data/private/
+*.csv
+*.xlsx
+*.parquet
+
+# Generated model artifacts
+*.pkl
+*.joblib
+*.model
+*.ubj
+
+# Local outputs and temporary files
+.DS_Store
+Thumbs.db
+*.log
+tmp/
+temp/
