@@ -1,4 +1,4 @@
-\# HantaXAI: Explainable Spatiotemporal Forecasting of Hantavirus Outbreaks
+\HantaXAI: Explainable Spatiotemporal Forecasting of Hantavirus Outbreaks
 
 
 
@@ -6,7 +6,7 @@ HantaXAI is a research project that investigates multi-source, explainable machi
 
 
 
-\## Research Overview
+\ Research Overview
 
 
 
@@ -18,7 +18,7 @@ The study covers 25 countries across five WHO regions over the period 1993–202
 
 
 
-\### Key Components
+\ Key Components
 
 
 
@@ -34,7 +34,7 @@ The study covers 25 countries across five WHO regions over the period 1993–202
 
 
 
-\## Methodology
+\ Methodology
 
 
 
@@ -64,7 +64,7 @@ The final model described in the paper uses 31 features, including 30 engineered
 
 
 
-\## Reported Results
+\ Reported Results
 
 
 
@@ -94,7 +94,7 @@ These are the results reported in the manuscript. Users should run the notebook 
 
 
 
-\## Repository Contents
+\ Repository Contents
 
 
 
@@ -110,7 +110,7 @@ These are the results reported in the manuscript. Users should run the notebook 
 
 
 
-\## Dataset
+\ Dataset
 
 
 
@@ -130,11 +130,11 @@ The original source records and the exact preprocessing procedure should be chec
 
 
 
-\## Getting Started
+\ Getting Started
 
 
 
-\### 1. Clone the repository
+\ 1. Clone the repository
 
 
 
@@ -152,7 +152,7 @@ Replace `YOUR\_USERNAME` with your GitHub username.
 
 
 
-\### 2. Create a virtual environment
+\ 2. Create a virtual environment
 
 
 
@@ -188,7 +188,7 @@ source .venv/bin/activate
 
 
 
-\### 3. Install dependencies
+\ 3. Install dependencies
 
 
 
@@ -200,7 +200,7 @@ pip install -r requirements.txt
 
 
 
-\### 4. Run the notebook
+\ 4. Run the notebook
 
 
 
@@ -216,7 +216,7 @@ Obtain the dataset separately and update the notebook's data path to match your 
 
 
 
-\## Reproducibility Notes
+\ Reproducibility Notes
 
 
 
@@ -234,7 +234,7 @@ Obtain the dataset separately and update the notebook's data path to match your 
 
 
 
-\## Limitations
+\ Limitations
 
 
 
@@ -242,7 +242,7 @@ The study uses retrospective, country-level data and may be affected by differen
 
 
 
-\## Citation
+\ Citation
 
 
 
@@ -254,7 +254,7 @@ If you use this work, please cite the associated paper:
 
 
 
-\## Contact
+\ Contact
 
 
 
